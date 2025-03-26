@@ -14,7 +14,7 @@ using System.Threading;
 using Microsoft.Foundation.UOM;
 using System.Automation;
 using Microsoft.eServices.EDocument.Integration;
-codeunit 50112 "Integration Tests"
+codeunit 148199 "Integration Tests"
 {
     Subtype = Test;
     Permissions =
